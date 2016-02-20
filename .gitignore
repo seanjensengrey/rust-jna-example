@@ -1,1 +1,3 @@
+.gitignore
 target/
+libtreble.dylib
