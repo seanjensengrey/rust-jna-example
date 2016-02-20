@@ -1,6 +1,8 @@
 # Rust Java JNA Example
 
-This is an example of creating a dynamic library in Rust that exposes a [C ABI](https://en.wikipedia.org/wiki/Application_binary_interface) and called via [JNA](https://en.wikipedia.org/wiki/Java_Native_Access).
+This is an example of creating a dynamic library in Rust that exposes a [C ABI](https://en.wikipedia.org/wiki/Application_binary_interface) and called via [JNA](https://en.wikipedia.org/wiki/Java_Native_Access).  Orginally based on [this](https://gist.github.com/seanjensengrey/f5d73bbdf22cfa1ad463) gist.
+
+
 
 ```
 git clone https://github.com/seanjensengrey/rust-jna-example.git
