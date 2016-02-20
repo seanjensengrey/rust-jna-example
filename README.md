@@ -22,8 +22,8 @@ To install build dependencies on a Mac via [Homebrew](http://brew.sh/)
 ```
 brew install maven
 brew install multirust
-multirust update
 multirust default stable
+multirust update
 ```
 
 ## Output
